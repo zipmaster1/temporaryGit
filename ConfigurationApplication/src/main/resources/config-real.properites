@@ -1,0 +1,4 @@
+server.type=real
+db.server.ip=10.0.1.101
+db.user=realuser
+db.password=1234
