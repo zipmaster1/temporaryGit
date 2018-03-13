@@ -1,4 +1,0 @@
-server.type=dev
-db.server.ip=10.0.1.1
-db.user=devuser
-db.password=1234
