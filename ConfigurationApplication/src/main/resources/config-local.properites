@@ -1,0 +1,4 @@
+server.type=local
+db.server.ip=127.0.0.1
+db.user=localuser
+db.password=1234
