@@ -22,9 +22,6 @@ public class CameraController {
 	
 	@RequestMapping(value="/camera/viewconfiguration", method=RequestMethod.GET)
 	public String viewConfiguration() {
-		System.out.println(marketType);
-		System.out.println(dbServer);
-		System.out.println(user);
-		return "aaaaa";
+		return marketType + " // " + dbServer + " // " + user;
 	}
 }
